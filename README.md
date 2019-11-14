@@ -1,4 +1,4 @@
-The load from CSV files was developed for growing analisys of mycelium leather . The company's team is experimenting with
+The uploading data from CSV files was developed for analisys of mycelium leather growing . The company's team is experimenting with
 different growth schedules.
 
 They have 2 growth programms in use (described in runcard_A.csv, runcard_B.csv), which describe a several day process.
